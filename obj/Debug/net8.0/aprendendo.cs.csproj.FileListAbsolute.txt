@@ -1,0 +1,14 @@
+C:\Users\anacr_2i4kqb1\aprendendo.cs\bin\Debug\net8.0\aprendendo.cs.exe
+C:\Users\anacr_2i4kqb1\aprendendo.cs\bin\Debug\net8.0\aprendendo.cs.deps.json
+C:\Users\anacr_2i4kqb1\aprendendo.cs\bin\Debug\net8.0\aprendendo.cs.runtimeconfig.json
+C:\Users\anacr_2i4kqb1\aprendendo.cs\bin\Debug\net8.0\aprendendo.cs.dll
+C:\Users\anacr_2i4kqb1\aprendendo.cs\bin\Debug\net8.0\aprendendo.cs.pdb
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.AssemblyInfoInputs.cache
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.AssemblyInfo.cs
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.csproj.CoreCompileInputs.cache
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.dll
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\refint\aprendendo.cs.dll
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.pdb
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\aprendendo.cs.genruntimeconfig.cache
+C:\Users\anacr_2i4kqb1\aprendendo.cs\obj\Debug\net8.0\ref\aprendendo.cs.dll
