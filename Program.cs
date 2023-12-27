@@ -1,4 +1,4 @@
-﻿//Jogo de Advinha 
+﻿//Jogo de Adivinha 
 
 using System.ComponentModel.Design;
 
